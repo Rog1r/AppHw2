@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EditText</string>
+    <string name="HeightHint">身高(公分)</string>
+    <string name="NameHint">姓名</string>
+    <string name="WeigthHint">體重(公斤)</string>
+</resources>

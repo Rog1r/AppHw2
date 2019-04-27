@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EditText</string>
+    <string name="NameHint">Name</string>
+    <string name="NameHint">Name</string>
+    <string name="HeightHint">Height(Cm)</string>
+    <string name="WeigthHint">Weight(Kg)</string>
+</resources>
